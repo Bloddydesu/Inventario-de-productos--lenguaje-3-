@@ -170,3 +170,4 @@ def generar_reporte(inventario):
     else:
         for p in escasos:
             print(f"- {p['nombre']} (Stock actual: {p['stock']})")
+# Este es una prueba del commit
